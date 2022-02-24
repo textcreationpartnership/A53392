@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An oration spoken in the grammar-school of Christ's-Hospital before the right honourable the Lord Mayor, the right worshipful the presidents, the treasurers, and the rest of the worshipful governours of the hospitals of the renowned city of London, Sept. 21, 1675.</title>
+            <author>Long, Benjamin.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53392</idno>
+            <idno type="STC">Wing O366</idno>
+            <idno type="STC">ESTC R29246</idno>
+            <idno type="EEBO-CITATION">11054085</idno>
+            <idno type="OCLC">ocm 11054085</idno>
+            <idno type="VID">46171</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53392)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46171)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1427:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An oration spoken in the grammar-school of Christ's-Hospital before the right honourable the Lord Mayor, the right worshipful the presidents, the treasurers, and the rest of the worshipful governours of the hospitals of the renowned city of London, Sept. 21, 1675.</title>
+                  <author>Long, Benjamin.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Godbid,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Speeches, addresses, etc., English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46171:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <p>AN ORATION Spoken in the <hi>GRAMMAR-SCHOOL</hi> OF CHRIST'S-HOSPITAL: <hi>BEFORE</hi> The Right Honourable the LORD-MAYOR, the Right Worſhipful the PRESIDENTS, the TREASURERS, and the reſt of the Worſhipful GOVERNOURS of the <hi>Hoſpitals</hi> of the Renowned City of <hi>LONDON, Sept.</hi> 21. 1675.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>William Godbid, 1675.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="oration">
+            <pb facs="tcp:46171:2"/>
+            <!-- PDF PAGE 16 -->
+            <pb n="1" facs="tcp:46171:2"/>
+            <!-- PDF PAGE 16 -->
+            <head>AN ORATION Spoken in the <hi>GRAMMAR-SCHOOL</hi> OF CHRISTS-HOSPITAL.</head>
+            <opener>
+               <salute>Right Honourable, Right worſhipful, And our moſt worthy Patrons,</salute>
+            </opener>
+            <p>IT was the cuſtom among the <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> upon their ſolemn Feſtivals to complement the Aſſembly with a florid Oration, and recite
+<pb n="2" facs="tcp:46171:3"/>
+               <!-- PDF PAGE 17 -->the worthy Acts, both of their war<g ref="char:EOLhyphen"/>like Heroes and Noble Senatours, the better to ſtir up others to emulate their Virtues, and by their acquired Glory, to perſwade them not to de<g ref="char:EOLhyphen"/>generate from ſo worthy Anceſtors.</p>
+            <p>A'nd truely this <hi>Septembers</hi> Feſtival deſerves ſuch a commemoration, wherein we have the happineſs to be<g ref="char:EOLhyphen"/>hold the pleaſant Faces of You our Honoured Patrons, whoſe Worth and Merits call upon us for our beſt <hi>Elo<g ref="char:EOLhyphen"/>giums</hi> and thankful Retributions. We are the Sons of Charity, whoſe fruit<g ref="char:EOLhyphen"/>ful Womb, we hope, will produce a conſtant ſucceſſion of ſuch, that ſhall teſtifie their gratitude, and pay their due Obſervance on their bended knees, to all that are the Authors of their preſent being.</p>
+            <p>We come this day before You as your Debtors, not to diſcharge the Principal, but to beg your acceptance of our poor Mite of Thankfulneſs,
+<pb n="3" facs="tcp:46171:3"/>
+               <!-- PDF PAGE 17 -->as your due Intereſt. It is fit, that Orphans ſhould, on ſuch a day as this is, freely vent their thanks to God, and this Renowned City, wherein moſt of us have drawn our firſt breath, and found mercy in the day of our diſtreſs and ſorrow.</p>
+            <p>But who is able to undertake ſo lofty a Subject, which requires a ſub<g ref="char:EOLhyphen"/>limer wit and ſtrain, than ſuch a poor Oratour as I am can attain to? Yet rather than <hi>Londons</hi> Praiſe, and our Patrons Merits ſhall be concealed, I my ſelf will venture to blaze them forth, that the whole Kingdom may ſee them in their native luſtre.</p>
+            <p>My Work (Right Honourable) is cut out before me parted into two Rivulets, <hi>viz.</hi> to make this renow<g ref="char:EOLhyphen"/>ned and famous City the Subject of our praiſe, and boldly to aſſert, That She ſurpaſſeth all others in her Acts of well-diſpoſed Charity.</p>
+            <p>All places almoſt abroad ſound
+<pb n="4" facs="tcp:46171:4"/>
+               <!-- PDF PAGE 18 -->forth her worth and honour, and ad<g ref="char:EOLhyphen"/>mire the Splendour of her Magiſtrates, the Dignity of her Senators, the weal<g ref="char:EOLhyphen"/>thy Coffers of her Citizens; whilſt at home we pleaſe our Eyes with the beholding her goodly Symmetry of her Piles of Building, her Man<g ref="char:EOLhyphen"/>nor-Houſes, ſpatious Halls, her Royal Byrſe, her Courts of Judicature and goodly Temples, all rais'd, as we ſee, out of heaps of Aſhes, to the admira<g ref="char:EOLhyphen"/>tion of all Spectators.</p>
+            <p>You are (moſt pious Senatours) Ci<g ref="char:EOLhyphen"/>tizens of no mean City, one that is the Metropolis of the Kingdom, and the beſt <hi>Emporeum</hi> in the World for Trade and Commerce. A City that may above all others diſplay her Ban<g ref="char:EOLhyphen"/>ners, and ſet up to publick view the Trophies of her memorable Acts and glorious Atchievements.</p>
+            <p>A goodly ſight indeed! to ſee her like <hi>Jeruſalem</hi> compact, and watered with dew from above; while Love
+<pb n="5" facs="tcp:46171:4"/>
+               <!-- PDF PAGE 18 -->and Concord embrace each other, free by Divine Goodneſs from the Injuries of Fate, and guarded by her wooden Caſtles, floating upon the Ocean, at whoſe Ports both the <hi>Indies</hi> take it as a kindneſs, that they may unlade their wealthy Traffick, and be admitted to a free Commerce.</p>
+            <p>But it is not my deſign to launch forth too far in the praiſe of <hi>Londons</hi> Glory and deſerved Grandeur, I leave that to the skill of thoſe, that can by a skilful Pencil pourtray its beauty and juſt ſplendour.</p>
+            <p>Give me leave, I beſeech You, (Right Honourable) to applaud the Excellency of her Acts of Charity, which indeed heightens her honour, and ſets forth her trueſt luſtre.</p>
+            <p>
+               <hi>London</hi> is no Monopoliſt of her Wealth and Treaſure, but like a free Empereſs hath provided her pious Almoners, that ſcatter abroad her Largiaries with a free hand to the
+<pb n="6" facs="tcp:46171:5"/>
+               <!-- PDF PAGE 19 -->poor and needy. It is a Noble Pat<g ref="char:EOLhyphen"/>tern that ſhe ſtrives to imitate; and what our Royal <hi>Edward</hi> of bleſſed memory firſt deſigned, that doth <hi>Lon<g ref="char:EOLhyphen"/>dons</hi> Heroes endeavour to complete, by conſulting the Intereſt of the poor by impotency, the poor by caſualty, and the thriftleſs poor.</p>
+            <p>And in this <hi>London</hi> outvies all other Cities, in her equal diſtribution of her liberal bounty.</p>
+            <p>No more need the Lazar lament his pain and ſmart in <hi>Londons</hi> ſtreets, ſeeing God hath provided Balm in this our <hi>Gilead,</hi> to heal his wounds and alleviate his pain and anguiſh. St. <hi>Bartholomew</hi> and St. <hi>Thomas</hi> freely ſet open their Gates, to admit all Cripples and diſeaſed perſons: And theſe good <hi>Samaritans</hi> are ready at all times to pour in Oyl into their wounds, and bind them up with pity.</p>
+            <p>
+               <hi>London</hi> hath provided a ſalve for
+<pb n="7" facs="tcp:46171:5"/>
+               <!-- PDF PAGE 19 -->every ſore, and a plainſter large enough for the greateſt maladies. She hath prepared a <hi>Betheſda;</hi> Charity is the Angel that moves the waters, and makes them ſanative to all that ſtep in for cure.</p>
+            <p>Nor ſhall the Lunatick or raving Madman any longer affright us in the ſtreets, by their ghaſtly looks and diſcompoſed language, and direful execrations. For charitable <hi>London</hi> hath provided a <hi>Bedlam</hi> to reſtore them to their ſenſes. This word <hi>Bedlam,</hi> me thinks, ſtrikes terrour to my ſenſes, and the diſmal tone and accent of it fills me with horrour. What heart indeed is ſo flinty, that is not diſſol<g ref="char:EOLhyphen"/>ved into tears, at the view of ſuch ſpectacles of miſery? It is your Ho<g ref="char:EOLhyphen"/>nour (Right Worſhipful) that you con<g ref="char:EOLhyphen"/>dole their misfortune, and have con<g ref="char:EOLhyphen"/>ſulted of late a more convenient place for Air and room for their reception: Not a <hi>Bedlam,</hi> but rather a Palace, for its beauty and ſplendour.</p>
+            <pb n="8" facs="tcp:46171:6"/>
+            <!-- PDF PAGE 20 -->
+            <p>Vagrants, begone! and no more infeſt the Air of <hi>London</hi> with your noyſom breath. It is pity, that ſuch a verminous brood ſhould ſwarm and poyſon our ſtreets. If you appear any more, there is the <hi>Mittimus</hi> of the Juſtice, and the compulſion of a Beadle, that ſhall conduct you to a <hi>Bridewell,</hi> where you ſhall meet with the laſh, and be taught the Leſſon of Induſtry.</p>
+            <p>It troubles me (Worthy Sirs) that your Charity, which knows no other Aſpect, than of pleaſing ſmiles, ſhould be thus conſtrained to wrinkled frowns, by making thoſe idle packs to taſte of the bitter potion of cor<g ref="char:EOLhyphen"/>rection, that they may prevent wor<g ref="char:EOLhyphen"/>ſer evils that attend them.</p>
+            <p>It is the praiſe of thoſe that are under your Oeconomy, that they ap<g ref="char:EOLhyphen"/>ply themſelves to Induſtry, and pur<g ref="char:EOLhyphen"/>ſue thoſe Arts, that will in time gra<g ref="char:EOLhyphen"/>tifie their labour. That Morality and
+<pb n="9" facs="tcp:46171:6"/>
+               <!-- PDF PAGE 20 -->Sobriety which they have learned un<g ref="char:EOLhyphen"/>der your diſcipline, will make them wiſe and prudent, while others, that are headſtrong and rebellious, juſtly reap the fruits of their folly, by ſmart and ſhame.</p>
+            <p>But I will leave theſe Patients to concoct their phyſick: Time perhaps, and due inſpection over their car<g ref="char:EOLhyphen"/>riage, may at length perfect their cure.</p>
+            <p>Bravely have You done, (Moſt Noble Senatours) that You have ſo freely eſpouſed the Cauſe of the poor, and pitied their miſery. To your ho<g ref="char:EOLhyphen"/>nour be it ſpoken, that your zeal to God's Glory, and your love you bear to this famous City, prompts you to be emulous, and to outvye each other in promoting Charity.</p>
+            <p>And now let the bold Atheiſt re<g ref="char:EOLhyphen"/>tract his errour, and begin to admire a Deity, whoſe power no one can confront with ſafety, nor equal His
+<pb n="10" facs="tcp:46171:7"/>
+               <!-- PDF PAGE 21 -->goodneſs. Let him but obſerve the <hi>Series</hi> of Providence, and gracious ſupply, that is made for us little Frey, who are preſent here this day, as lively monuments of His mercy, and then he will be convinced, that there is a God that governs the world, and ſuſtains it by His power.</p>
+            <p>You are (Right Honourable and our Moſt Worthy Patrons) Gods <hi>Delegates</hi> and <hi>faithful Truſtees</hi> for poor Orphans, whoſe native bounty and goodneſs excites you to Acts of mercy towards the Fatherleſs and diſtreſſed Widow, whoſe naked backs are cloathed, hun<g ref="char:EOLhyphen"/>gry bellies repleniſhed, and ſupplied with all neceſſaries, both for ſoul and body.</p>
+            <p>An <hi>Orphanotrophium</hi> indeed! where<g ref="char:EOLhyphen"/>in charitable <hi>London</hi> hath ſhewed her bounty to the full, in furniſhing us with thoſe advantages, that may make us uſeful to ſucceeding Ages.</p>
+            <p>Farewel our doubtful cares and
+<pb n="11" facs="tcp:46171:7"/>
+               <!-- PDF PAGE 21 -->preſſing ſorrows, which once over<g ref="char:EOLhyphen"/>whelmed us like a mighty torrent. Our fears of want are prevented, and we ſeated in quiet habitation, where your bounteous liberality bids us hope to better our fortunes. Ah, that we were wiſe in improving our oppor<g ref="char:EOLhyphen"/>tunities, that are handed to us! We will through God's help ſet ſpurs to our diligence, that we may by our good proficiency commend the care and faithfulneſs of our Worthy Tu<g ref="char:EOLhyphen"/>tors. From our Souls we thank You (Moſt Worthy Patrons) that you have taken ſuch care for our education, that whatſoever Employment God ſhall diſpoſe us unto, we may ſo apply our ſelves, that we may excel in them.</p>
+            <p>As for us, we are <hi>Muſes</hi> Soul<g ref="char:EOLhyphen"/>diers, and <hi>Minerva's</hi> Attendants: Our Studies are our Warfare, and in time we hope to prove good Combitants; ſeeing Your Worſhips furniſh us with all Accompliſhments for uſe and be<g ref="char:EOLhyphen"/>nefit.</p>
+            <pb n="12" facs="tcp:46171:8"/>
+            <!-- PDF PAGE 22 -->
+            <p>Yonder is our Armory (Thanks to that Noble Hand that lately founded and completed it:) There have we Arms, offenſive and defenſive, to aſſail our Opponents: I mean a Library, furniſhed in ſome meaſure with Books to accommodate us in our Studies, where ſome of us are admiring <hi>Ci<g ref="char:EOLhyphen"/>cero</hi>'s Eloquence, and fitting our ſelves for Academical Studies; others con<g ref="char:EOLhyphen"/>verſing with the Mathematicks, that they may the better underſtand the Speculation of the Heavenly Bodies, and ſurvey the Globes of the World ſo accurately, that they may traverſe the Ocean, diſcourſe of Countries and their ſeveral Climates.</p>
+            <p>But I fear (Right Honourable, Right Worſhipful, and our Moſt Worthy Patrons) leſt while we are boaſting of our warlike proviſion, we may meet with a ſudden Engagement, and there<g ref="char:EOLhyphen"/>by hinder the End of your Solemn Meeting. Let me, I beſeech you, ſound a Parley, and I have done.</p>
+            <pb n="13" facs="tcp:46171:8"/>
+            <!-- PDF PAGE 22 -->
+            <p>May all the Affluence of the milder Heavens be accumulated upon famous and renowned <hi>London.</hi>
+            </p>
+            <p>May Her Noble Senatours, our Pious Patrons, and Worthy Citizens, be bleſt with Plenty, Peace, Health, and Safety.</p>
+            <p>Long live our Gracious Sovereign and Noble Queen, with all the Bran<g ref="char:EOLhyphen"/>ches of the Royal Stem.</p>
+            <p>Long may this Kingdom flouriſh, and be preſerved from Civil Jars and Forein Invaſions.</p>
+            <closer>
+               <signed>
+                  <hi>Benjamin Long,</hi> Orphan.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
